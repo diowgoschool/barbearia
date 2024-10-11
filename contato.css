@@ -143,3 +143,7 @@ thead {
     color: "fff";
     font-weight: "bold";
 }
+
+td, th {
+    border: 1px solid "#000"
+}
