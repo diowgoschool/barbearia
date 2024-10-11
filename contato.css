@@ -133,3 +133,7 @@ form label, form p {
     background: darkorange;
     transform: rotate(100000rad) scale(1.2);
 }
+
+table {
+    margin: 20px 0 40px;
+}
