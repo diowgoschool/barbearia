@@ -135,5 +135,11 @@ form label, form p {
 }
 
 table {
-    margin: 20px 0 40px;
+    margin: 20px 0 40px 0;
+}
+
+thead {
+    background: "#55";
+    color: "fff";
+    font-weight: "bold";
 }
